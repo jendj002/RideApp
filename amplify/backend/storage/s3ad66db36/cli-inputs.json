@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3ad66db36",
+  "policyUUID": "ad66db36",
+  "bucketName": "rideapp1e41763fd9434abca0e1b8ac07a00918",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
